@@ -1,0 +1,5 @@
+.idea/
+venv/
+**/.DS_Store
+resources/movies/ratings.csv
+resources/netflix/Netflix\ User\ Ratings.csv
